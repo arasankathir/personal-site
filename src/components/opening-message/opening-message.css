@@ -2,3 +2,7 @@
   min-width: 5rem;
   margin-top: 4%;
 }
+
+.wrapper {
+  min-width: 10rem;
+}

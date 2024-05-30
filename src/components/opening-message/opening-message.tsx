@@ -22,7 +22,7 @@ const OpeningMessage = () => {
   }, [currentIndex, speed, textArray]);
 
   return (
-    <div className="opening-message">
+    <div className="opening-message wrapper">
       <h1>{currentText}</h1>
     </div>
   );
