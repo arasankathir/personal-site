@@ -1,4 +1,4 @@
-import { Row, Col } from 'react-bootstrap';
+import { Row, Col, Container } from 'react-bootstrap';
 import './App.css';
 import AppNavbar from './components/navbar/navbar';
 import Hero from './components/hero/hero';
@@ -31,8 +31,10 @@ function App() {
                 </div>
               </section>
             </Col>
-            <Col className="col-lg-8 col-md-8 col-sm-12 d-flex justify-content-start">
-              <OpeningMessage />
+            <Col className="col-lg-8 col-md-12 col-sm-12 d-flex justify-content-start">
+              <Container>
+                <OpeningMessage />
+              </Container>
             </Col>
           </Row>
           {/* <div>
