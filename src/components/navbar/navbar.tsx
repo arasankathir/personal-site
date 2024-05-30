@@ -28,7 +28,7 @@ const AppNavbar = () => {
   return (
     <>
       <Navbar>
-        <div className="container-fluid px-0">
+        <div className="container-fluid px-0 navbar-margin">
           <Navbar.Brand className="brand-logo">
             <b>AK</b>
           </Navbar.Brand>
