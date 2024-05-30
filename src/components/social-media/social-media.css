@@ -1,0 +1,31 @@
+.social-media-icon {
+  height: 2rem;
+  padding-right: 1rem;
+  cursor: pointer;
+}
+
+.social-media-icon-row {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.fa-linkedin {
+  color: #0976b4;
+} 
+  
+.fa-github {
+  color: #333
+}
+  
+.fa-square-youtube {
+  color: #e52d27
+}
+  
+.fa-bluesky {
+  color: #4f9bd9
+}
+  
+.fa-mastodon {
+  color: #6364FF
+}

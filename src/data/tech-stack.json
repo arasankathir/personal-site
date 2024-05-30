@@ -1,0 +1,59 @@
+[
+    {
+      "title": "javascript",
+      "background": "/tech-stack/javascript.png"
+    },
+    {
+      "title": "typescript",
+      "background": "/tech-stack/typescript.png"
+    },
+    {
+      "title": "node.js",
+      "background": "/tech-stack/node.png"
+    },
+    {
+      "title": "react",
+      "background": "/tech-stack/react.png"
+    },
+    {
+      "title": "angular",
+      "background": "/tech-stack/angular.png"
+    },
+    {
+      "title": "html",
+      "background": "/tech-stack/html.png"
+    },
+    {
+      "title": "css",
+      "background": "/tech-stack/css.png"
+    },
+    {
+      "title": "csharp",
+      "background": "/tech-stack/csharp.png"
+    },
+    {
+      "title": "laravel",
+      "background": "/tech-stack/laravel.png"
+    },
+    {
+      "title": "mongoDB",
+      "background": "/tech-stack/mongo.png"
+    },
+    {
+      "title": "sql",
+      "background": "/tech-stack/sql.png"
+    },
+    {
+      "title": "flutter",
+      "background": "/tech-stack/flutter.png"
+    },
+    {
+      "title": "firebase",
+      "background": "/tech-stack/firebase.png"
+    },
+    {
+      "title": "gcp",
+      "background": "/tech-stack/gcp.png"
+    }
+  ]
+  
